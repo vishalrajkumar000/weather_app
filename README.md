@@ -6,13 +6,42 @@ A flutter weather app that provides with current location's weather along with h
 ## Features
 
 - Current location weather
-- Hourly weather forecast of next 24 hours
-- Daily weather forecast of next 7 days
-- Search for particular city's current weather and weather forecast
+<div style="display:inline">
+<img src="readme_images/1.png" alt="" height="300" />
+</div>
 
-## Preview of Weather App
+- Hourly weather forecast of next 24 hours
+<div style="display:inline">
+<img src="readme_images/1.png" alt="" height="300" />
+</div>
+
+- Daily weather forecast of next 7 days
+<div style="display:inline">
+<img src="readme_images/1.png" alt="" height="300" />
+<img src="readme_images/2.png" alt="" height="300" />
+<img src="readme_images/3.png" alt="" height="300" />
+</div>
+
+- Search for particular city's current weather and weather forecast
+<div style="display:inline">
+<img src="readme_images/4.png" alt="" height="300" />
+<img src="readme_images/5.png" alt="" height="300" />
+<img src="readme_images/10.png" alt="" height="300" />
+<img src="readme_images/11.png" alt="" height="300" />
+</div>
+
+- Change background theme from set of themes provided.Dark mode is also available.
+<div style="display:inline">
+<img src="readme_images/7.png" alt="" height="300" />
+<img src="readme_images/8.png" alt="" height="300" />
+<img src="readme_images/9.png" alt="" height="300" />
+<img src="readme_images/12.png" alt="" height="300" />
+</div>
+
+## More pictures of Weather App
 
 <div style="display:inline">
+<img src="readme_images/0.png" alt="" height="300" />
 <img src="readme_images/1.png" alt="" height="300" />
 <img src="readme_images/2.png" alt="" height="300" />
 <img src="readme_images/3.png" alt="" height="300" />
@@ -20,12 +49,14 @@ A flutter weather app that provides with current location's weather along with h
 <div style="display:inline">
 <img src="readme_images/4.png" alt="" height="300" />
 <img src="readme_images/5.png" alt="" height="300" />
-<img src="readme_images/6.png" alt="" height="300" />
+<img src="readme_images/10.png" alt="" height="300" />
+<img src="readme_images/11.png" alt="" height="300" />
 </div>
 <div style="display:inline">
 <img src="readme_images/7.png" alt="" height="300" />
 <img src="readme_images/8.png" alt="" height="300" />
 <img src="readme_images/9.png" alt="" height="300" />
+<img src="readme_images/12.png" alt="" height="300" />
 </div>
 
 ## Note for cloning
