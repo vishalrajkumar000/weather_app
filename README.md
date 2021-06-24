@@ -6,24 +6,27 @@ A flutter weather app that provides with current location's weather along with h
 ## Features
 
 - Current location weather
-- hourly weather forecast of next 24 hours
-- daily weather forecast of next 7 days
+- Hourly weather forecast of next 24 hours
+- Daily weather forecast of next 7 days
 - Search for particular city's current weather and weather forecast
 
 ## Preview of Weather App
 
+<div style="display:inline">
 <img src="readme_images/1.png" alt="" height="300" />
 <img src="readme_images/2.png" alt="" height="300" />
 <img src="readme_images/3.png" alt="" height="300" />
-<br>
+</div>
+<div style="display:inline">
 <img src="readme_images/4.png" alt="" height="300" />
 <img src="readme_images/5.png" alt="" height="300" />
 <img src="readme_images/6.png" alt="" height="300" />
-<br>
+</div>
+<div style="display:inline">
 <img src="readme_images/7.png" alt="" height="300" />
 <img src="readme_images/8.png" alt="" height="300" />
 <img src="readme_images/9.png" alt="" height="300" />
-<br>
+</div>
 
 ## Note for cloning
 
