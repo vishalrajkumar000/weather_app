@@ -1,28 +1,31 @@
 # Weather App
 
-A flutter weather app that provides with current location's weather along with hourly and daily forecast.We can also search for particular city's weather.
+A flutter weather app⛅ that provides with current location's🛰 weather along with hourly⏳ and daily📅 forecast.We can also searchSearch 🔭 for particular city's weather.
 
+### Landing Page
+
+[Weather App-V](https://vishalrajkumar000.github.io/weather_app_landing_site/) website.Checkout this site👁‍🗨✨.
 
 ## Features
 
-- Current location weather
+- Current location weather🛰🌥
 <div style="display:inline">
 <img src="readme_images/1.png" alt="" height="300" />
 </div>
 
-- Hourly weather forecast of next 24 hours
+- Hourly weather forecast of next 24 hours⏳
 <div style="display:inline">
 <img src="readme_images/1.png" alt="" height="300" />
 </div>
 
-- Daily weather forecast of next 7 days
+- Daily weather forecast of next 7 days📅
 <div style="display:inline">
 <img src="readme_images/1.png" alt="" height="300" />
 <img src="readme_images/2.png" alt="" height="300" />
 <img src="readme_images/3.png" alt="" height="300" />
 </div>
 
-- Search for particular city's current weather and weather forecast
+- Search🔭 for particular city's current weather and weather forecast
 <div style="display:inline">
 <img src="readme_images/4.png" alt="" height="300" />
 <img src="readme_images/5.png" alt="" height="300" />
@@ -30,7 +33,7 @@ A flutter weather app that provides with current location's weather along with h
 <img src="readme_images/11.png" alt="" height="300" />
 </div>
 
-- Change background theme from set of themes provided.Dark mode is also available.
+- Change background theme🔵🟣⚫ from set of themes provided.Dark mode⚫ is also available.
 <div style="display:inline">
 <img src="readme_images/7.png" alt="" height="300" />
 <img src="readme_images/8.png" alt="" height="300" />
